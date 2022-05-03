@@ -1,0 +1,10 @@
+#mainTitle {
+  text-align: center;
+}
+
+
+#githubLinkButton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
